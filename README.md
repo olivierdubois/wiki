@@ -1,4 +1,3 @@
-wiki
-====
+# Wiki
 
 Documentation on various topics.
