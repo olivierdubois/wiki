@@ -43,6 +43,6 @@ $ git flow init -d
 
 Create a new `feature` branch to work on:
 ```
-$ git flow feature start [feature-name]
+$ git flow feature start <feature-name>
 ```
 
